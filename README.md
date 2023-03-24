@@ -1,3 +1,3 @@
 # Airbnb Predictions
 
-![airbnb-paris](https://user-images.githubusercontent.com/97919969/227651868-5325455a-cb33-4ba6-9491-28a77608d905.jpeg)
+![airbnb](https://user-images.githubusercontent.com/97919969/227651937-5c6bea7d-a705-47bd-b41c-cb643ddaef71.png)
